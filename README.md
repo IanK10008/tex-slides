@@ -1,7 +1,7 @@
 # tex-slides
 36104 Asynchronous lecture 3 part 5
 
-| | rtgs.cash diagram | Slide deck |
+| | rtgs.cash diagram (https://www.rtgs.cash/) | Slide deck |
 |---|---|---|
 | **Time** | A snapshot of the system today | History (1960 to 2026) and the future under tokenisation |
 | **Mechanism** | Shows connections only | Explains processes step by step (e.g. DvP/PvP lock and release) |
